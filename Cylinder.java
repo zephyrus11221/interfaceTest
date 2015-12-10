@@ -12,6 +12,6 @@ public class Cylinder extends Circle{
     }
 
     public String toString(){
-	return "FIXME!";
+	return "Cylinder "+getName()+" with a radius of "+getRadius()+" and a height of "+getHeight();
     }
 }
