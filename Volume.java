@@ -1,3 +1,3 @@
 public interface Volume{
-    public double getvolume();
+    public double getVolume();
 }
