@@ -1,3 +1,3 @@
-public interface Area{
+public interface Volume{
     public double getvolume();
 }
