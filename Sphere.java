@@ -8,6 +8,6 @@ public class Sphere extends Circle implements Volume{
 	return "Sphere "+getName()+" with radius of "+getRadius();
     }
     public double getVolume(){
-	return radius*radius*radius*(4/3)*Math.PI;
+	return getRadius()*getRadius()*getRadius()*(4/3)*Math.PI;
     }
 }
