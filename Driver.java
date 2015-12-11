@@ -62,5 +62,10 @@ public class Driver{
 	    System.out.println(v.getVolume());
 	}
 	
+	/*
+	  The Driver is making 5 random 2D shapes and 6 random 3D shapes.
+	  it loops through the ArrayLists of these shapes, printing each one.
+	  This allows me to see if the different Shapes are working properly.
+	*/
     }
 }
